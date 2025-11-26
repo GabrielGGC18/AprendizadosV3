@@ -23,7 +23,7 @@ class SobreMim:
 ```
 ## Uso do Método __str__
 
-[!info] O método __str__ define como o objeto será representado em forma de string. É chamado quando usamos print(objeto) ou str(objeto).
+[!info]O método __str__ define como o objeto será representado em forma de string. É chamado quando usamos print(objeto) ou str(objeto).
 
 Exemplo:    
     class Work:
