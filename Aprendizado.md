@@ -63,8 +63,3 @@ A prática com exemplos ajuda a consolidar o aprendizado.
 
 ---
 
-Esse arquivo `.md` já está pronto para ser usado como documentação do seu estudo. Ele combina exemplos práticos, explicações e avisos (`info` e `warning`) para reforçar os conceitos.  
-
-Quer que eu adicione também uma seção com exercícios práticos para treinar esses conceitos dentro do mesmo arquivo?
-
----
